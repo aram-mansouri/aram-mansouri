@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aram-mansouri
-- 👀 I’m interested in learning any aspects of programming.
+- 👀 I’m interested in learning as many different aspects of programming as possible.
 - 🌱 I’m currently learning java in university.
 - 💞️ I’m looking to collaborate on basic programming projects.
 - 📫 How to reach me : https://www.linkedin.com/in/aram-mansouri-403496206/
